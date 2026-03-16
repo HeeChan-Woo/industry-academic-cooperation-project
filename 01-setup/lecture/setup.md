@@ -48,7 +48,7 @@
 <br><br>
 
 1. `hello-html/index.html` 파일을 엽니다.
-2. Live Server로 실행해 브라우저 화면을 확인합니다.
+2. 파일을 우측 클릭한 뒤, Open With Live Server를 선택합니다.
 3. 문장을 한 줄 바꾼 뒤 저장합니다.
 4. 화면이 자동으로 바뀌는지 확인합니다.
 5. `html-playground/index.html`을 열어 본인 정보로 수정합니다.
