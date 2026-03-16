@@ -30,8 +30,8 @@
 
 ## 이번 주 파일 설명
 
-- `hello-html/index.html`: 가장 간단한 HTML 실행 예제입니다.
-- `html-playground/index.html`: 학생이 직접 수정하는 실습 파일입니다.
+- `example/hello-html/index.html`: 가장 간단한 HTML 실행 예제입니다.
+- `starter/html-playground/index.html`: 학생이 직접 수정하는 실습 파일입니다.
 
 ## 코드에서 꼭 볼 부분
 
