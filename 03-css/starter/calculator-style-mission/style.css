@@ -1,0 +1,29 @@
+/* TODO: body에 margin: 0; 을 적용해보세요. */
+
+/* TODO: body를 화면 정가운데 정렬해보세요.
+display, justify-content, align-items, min-height를 사용해보세요. */
+
+/* TODO: calculator 클래스에 배경색, 안쪽 여백, 둥근 모서리를 적용해보세요. */
+.calculator {
+}
+
+/* TODO: display 클래스에 글자 크기, 배경색, 글자색, 오른쪽 정렬을 적용해보세요. */
+.display {
+}
+
+/* TODO: buttons 클래스에 grid 배치를 적용해보세요. */
+.buttons {
+}
+
+/* TODO: button 태그에 공통 스타일을 작성해보세요.
+예: border, padding, font-size, border-radius */
+button {
+}
+
+/* TODO: operator 클래스에 다른 배경색을 적용해보세요. */
+.operator {
+}
+
+/* TODO: equal 클래스가 두 칸을 차지하도록 만들어보세요. */
+.equal {
+}
